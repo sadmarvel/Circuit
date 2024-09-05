@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Circuit\circuitcontrol.exe
+C:\Users\ASUS\Desktop\Circuit\circuitcontrol.dll
+C:\Users\ASUS\Desktop\Circuit\circuitcontrol.deps.json
+C:\Users\ASUS\Desktop\Circuit\circuitcontrol.runtimeconfig.json
+C:\Users\ASUS\Desktop\Circuit\circuitcontrol.pdb

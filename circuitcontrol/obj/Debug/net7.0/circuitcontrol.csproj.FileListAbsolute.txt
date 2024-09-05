@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\bin\Debug\net7.0\circuitcontrol.exe
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\bin\Debug\net7.0\circuitcontrol.deps.json
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\bin\Debug\net7.0\circuitcontrol.runtimeconfig.json
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\bin\Debug\net7.0\circuitcontrol.dll
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\bin\Debug\net7.0\circuitcontrol.pdb
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.dll
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\refint\circuitcontrol.dll
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.pdb
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\circuitcontrol.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\circuitcontrol\circuitcontrol\obj\Debug\net7.0\ref\circuitcontrol.dll
